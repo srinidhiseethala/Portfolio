@@ -60,7 +60,7 @@ const About = () => {
             
             <p>
               My competitive programming achievements include solving <strong>350+ problems on LeetCode</strong> with a 61.5% 
-              acceptance rate (top 2.6% globally), <strong>200+ problems on GeeksforGeeks</strong> (contest rating: 1565), 
+              acceptance rate, <strong>200+ problems on GeeksforGeeks</strong> (contest rating: 1565), 
               and <strong>300+ problems on CodeChef</strong> (highest rating: 1296). I've earned a <strong>5-star Python badge 
               on HackerRank.</strong> My coding strengths lie in applying core algorithms, recursion, and data structures across platforms with consistency.
             </p>
