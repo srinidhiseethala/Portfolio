@@ -1394,3 +1394,13 @@ body {
 }
 
 
+
+#about{
+  background: linear-gradient(
+    135deg,
+    rgba(52, 152, 219, 0.2) 0%,
+    rgba(231, 76, 60, 0.2) 100%
+  );
+  position: relative;
+  overflow: hidden;
+}
