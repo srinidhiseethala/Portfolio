@@ -15,6 +15,13 @@ const Projects = () => {
       date: 'September 2024',
       link: 'https://leafy-living.netlify.app/',
       description: 'Designed and built a plant-selling website featuring 30+ plant listings across indoor, outdoor, and air-purifying categories, improving product discoverability.'
+    },
+    {
+      title: 'Spiritual Kerala',
+      technologies: 'HTML, CSS, JavaScript',
+      date: 'July 2024',
+      link: 'https://templesofkerala.netlify.app/',
+      description: 'Designed and developed an interactive, responsive web application using HTML, CSS, and JavaScript, integrating ScrollReveal animations to deliver structured, visually engaging, and user-friendly content presentation.'
     }
   ];
 
